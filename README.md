@@ -71,10 +71,6 @@ I specialize in building **robust, scalable, and enterprise-grade applications**
 - Worked on scalable, high-traffic platforms with strong performance requirements
 - Collaborated in Agile/Scrum teams
 
-**Software Engineer (Community Project) — Al-Ghazali High School**  
-📅 *Oct 2022 – Present*  
-- Designed and maintained the school website & digital portal
-
 **Teacher & IT Lab In-Charge — Al-Ghazali High School**  
 📅 *2017 – 2021*
 
